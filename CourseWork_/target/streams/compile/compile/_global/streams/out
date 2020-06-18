@@ -1,6 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/chameleon/Project/MTUSI/FP/CourseWork/src/main/scala/lab_3/src/Sequence.scala:40:98: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Seq[B][0m
-[0m[[0m[31merror[0m] [0m[0m required: scala.collection.IterableOnce[Seq[B]][0m
-[0m[[0m[31merror[0m] [0m[0m  def testFlatMap[A, B](seq: Seq[A])(f: A => Seq[B]): Seq[B] = seq.foldLeft(Seq[Seq[B]]())(_ ++ f(_)).flatten[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                                                 ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
