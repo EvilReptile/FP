@@ -1,5 +1,14 @@
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 279 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 0, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33mNo tests were executed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MapsTest, org.scalatest.tools.Framework$$anon$1@3dfcc3de, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(SequenceTest, org.scalatest.tools.Framework$$anon$1@3dfcc3de, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(StringTest, org.scalatest.tools.Framework$$anon$1@3dfcc3de, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(AdtsTest, org.scalatest.tools.Framework$$anon$1@3dfcc3de, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 262 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 22[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 4, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 22, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SequenceTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StringTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AdtsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MapsTest[0m

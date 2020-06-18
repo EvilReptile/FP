@@ -1,5 +1,14 @@
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 138 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 0, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 0, canceled 0, ignored 0, pending 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[33mNo tests were executed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HigherOrderTest, org.scalatest.tools.Framework$$anon$1@118160f, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FunctionsTest, org.scalatest.tools.Framework$$anon$1@118160f, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(PatternMatchingTest, org.scalatest.tools.Framework$$anon$1@118160f, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(AnimalTest, org.scalatest.tools.Framework$$anon$1@118160f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 365 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 27[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 4, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 27, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunctionsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AnimalTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HigherOrderTest[0m

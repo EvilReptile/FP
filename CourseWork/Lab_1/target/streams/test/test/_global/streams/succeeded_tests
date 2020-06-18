@@ -1,10 +1,10 @@
 #Successful Tests
-#Thu Jun 18 03:38:47 MSK 2020
-AnimalTest=1592431640086
-PatternMatchingTest=1592431640016
+#Thu Jun 18 18:32:36 MSK 2020
+AnimalTest=1592494355611
+PatternMatchingTest=1592494355624
 lab1.AnimalTest=1592440727865
 lab1.HigherOrderTest=1592440727875
 lab1.FunctionsTest=1592440727866
 lab1.PatternMatchingTest=1592440727918
-HigherOrderTest=1592431639925
-FunctionsTest=1592431639925
+HigherOrderTest=1592494355622
+FunctionsTest=1592494355627
