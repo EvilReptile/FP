@@ -1,0 +1,30 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab1test.FunctionsTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab3test.SequenceTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab3test.MapsTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab1test.PatternMatchingTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MainTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab2test.RecursiveFunctionsTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab2test.RecursiveDataTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab3test.StringTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab1test.HigherOrderTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab3test.AdtsTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab2test.CompositionsTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lab1test.AnimalTest, org.scalatest.tools.Framework$$anon$1@26d75fb6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 532 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 72[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 12, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 72, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab2test.RecursiveFunctionsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab2test.RecursiveDataTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab1test.HigherOrderTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MainTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab3test.SequenceTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab2test.CompositionsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab3test.MapsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab3test.AdtsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab1test.FunctionsTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab3test.StringTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab1test.AnimalTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lab1test.PatternMatchingTest[0m

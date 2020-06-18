@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mRecursiveFunctionsTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method length[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method reverse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method testReverse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method map[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method testMap[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method append[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method testAppend[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method flatMap[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method testFlatMap[0m[0m

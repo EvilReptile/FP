@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mAdtsTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method testGetNth[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test exception testGetNth[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-  test method Double[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-  test method testDouble[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method IsEven[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method testIsEven[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method SafeDivide[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method testSafeDivide[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method GoodOldJava[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method testGoodOldJava[0m[0m

@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mRecursiveDataTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method isEmpty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method testListIntEmpty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method isEmptyHead[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method testListIntHead[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method ListNotIsEmpty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method ListNotIsEmpty()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test class Tree[0m[0m

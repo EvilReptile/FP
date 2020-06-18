@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mAnimalTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method knownAnimal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method apply when passes null[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method apply when passes Mammals class[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- test method eats[0m[0m
